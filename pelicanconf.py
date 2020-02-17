@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Deepak'
-SITENAME = 'Weekly Reports'
+SITENAME = ''
 SITEURL = ''
 
 PATH = 'content'
@@ -50,3 +50,5 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+HIDE_SIDEBAR=True
