@@ -51,4 +51,5 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-HIDE_SIDEBAR=True
+SUMMARY_MAX_LENGTH = 5000
+HIDE_SIDEBAR = True
